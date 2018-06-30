@@ -1,4 +1,4 @@
-package com.bms.mapper;
+package com.bms.base;
 
 import org.apache.ibatis.annotations.InsertProvider;
 import org.apache.ibatis.annotations.Options;

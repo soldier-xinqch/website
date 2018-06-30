@@ -1,4 +1,4 @@
-package com.bms.mapper;
+package com.bms.base;
 
 import tk.mybatis.mapper.additional.insert.InsertListMapper;
 import tk.mybatis.mapper.common.*;
